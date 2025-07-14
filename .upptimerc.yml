@@ -4,7 +4,7 @@ repo: upptimerMetrics # The name of this repository
 
 sites:
   - name: Tools
-    url: $Tools_SERVER
+    url: $TOOLS_SERVER
     port: 22
   - name: PROD
     url: $PROD_SERVER
