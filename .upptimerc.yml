@@ -9,6 +9,7 @@ sites:
     url: https://en.wikipedia.org
   - name: Main Server
     url: $MAIN_SERVER
+    port: 2222
   # - name: Hacker News
   #   url: https://news.ycombinator.com
   # - name: Test Broken Site
