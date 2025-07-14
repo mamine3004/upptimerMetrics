@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tools",
     "status": "up",
-    "uptime": "1.94%",
-    "uptimeDay": "1.94%",
-    "uptimeWeek": "1.94%",
-    "uptimeMonth": "1.94%",
-    "uptimeYear": "1.94%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 260,
     "timeDay": 260,
     "timeWeek": 260,
     "timeMonth": 260,
     "timeYear": 260,
-    "dailyMinutesDown": {
-      "2025-07-14": 3
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "PROD",
