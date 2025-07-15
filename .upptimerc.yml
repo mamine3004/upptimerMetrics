@@ -15,6 +15,10 @@ sites:
   - name: Main Server
     url: $MAIN_SERVER
     port: 2222
+  - name: SOMAP
+    url: https://somap.itadvisor.ma/
+  - name: Gammaradtech
+    url: https://gammaradtech.com/
   # - name: Hacker News
   #   url: https://news.ycombinator.com
   # - name: Test Broken Site
